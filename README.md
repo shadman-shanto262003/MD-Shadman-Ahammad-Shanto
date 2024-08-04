@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/ed2fb8a4-e7de-4c37-88bd-4bdc322eef14)
+![image](https://github.com/user-attachments/assets/0842b958-71fb-4eb6-96eb-f91342afacc1)
+
 
 <h1 align="center">Hi 👋, I'm MD Shadman Ahammad Shanto</h1>
 <h3 align="center">A passionate Computer Engineer from Bangladesh</h3>
